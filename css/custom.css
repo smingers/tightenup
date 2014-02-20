@@ -1,0 +1,14 @@
+/* custom css for the tighten up report */
+
+/* the main container that all the form stuff is embedded */
+#main {
+	background-color:#efead6;
+	border-radius:10px;
+	max-width:768px;
+	margin-top:50px;
+}
+
+/* trying to limit the width of the email field; need to add validation */
+#recipient-email {
+	max-width:3	00px;
+}
